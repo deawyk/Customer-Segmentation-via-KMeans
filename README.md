@@ -1,4 +1,4 @@
-# Customer_Segmentation
+# Customer Segmentation via K-Means
 
 Presentation: https://1drv.ms/p/s!AnaspbmJIhRth0HeTdhOigyXNu0N?e=6kdaQY
 
